@@ -108,10 +108,10 @@ class Landing extends Component {
                                         </nav>
                                     </div>
                                     <div>
-                                        {/* <form target="_blank" className="form-inline my-lg-0"
+                                        <form target="_blank" className="form-inline my-lg-0"
                                             action="https://themeforest.net/item/multikart-responsive-react-ecommerce-template/23067773">
-                                            <button className="btn my-sm-0 purchase-btn">PURCHASE</button>
-                                        </form> */}
+                                            <button className="btn my-sm-0 purchase-btn">Contact us</button>
+                                        </form>
                                     </div>
                                 </div>
                             </div>
